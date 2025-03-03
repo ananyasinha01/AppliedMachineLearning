@@ -1,0 +1,21 @@
+artifact_path: GradientBoostingClassifier
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.21.0
+model_size_bytes: 317873
+model_uuid: bf5c760c0dbd45278355028b2332147f
+prompts: null
+run_id: 8e0c3d1f5ab94747892235612d6c7e79
+utc_time_created: '2025-03-20 09:22:14.728550'
