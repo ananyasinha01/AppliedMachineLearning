@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/476961090172881872/9ef75af5d9aa4adda359bae6d923696f/artifacts
+end_time: 1742457953809
+entry_point_name: ''
+experiment_id: '476961090172881872'
+lifecycle_stage: active
+run_id: 9ef75af5d9aa4adda359bae6d923696f
+run_name: RandomForestClassifier
+run_uuid: 9ef75af5d9aa4adda359bae6d923696f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742457948711
+status: 3
+tags: []
+user_id: ananyasinha

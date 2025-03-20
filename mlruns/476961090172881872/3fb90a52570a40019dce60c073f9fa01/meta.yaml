@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/476961090172881872/3fb90a52570a40019dce60c073f9fa01/artifacts
+end_time: 1742462950568
+entry_point_name: ''
+experiment_id: '476961090172881872'
+lifecycle_stage: active
+run_id: 3fb90a52570a40019dce60c073f9fa01
+run_name: GradientBoostingClassifier
+run_uuid: 3fb90a52570a40019dce60c073f9fa01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742462941990
+status: 3
+tags: []
+user_id: ananyasinha
